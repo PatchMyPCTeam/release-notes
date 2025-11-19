@@ -4,6 +4,11 @@ date: 2020-06-25
 taxonomy:
     products:
         - patch-my-pc-cloud
+    release-notes-type:
+      - product-release
+    release-notes-update-type:
+      - new-feature
+      - bug-fix
 ---
 
 #### New Features
