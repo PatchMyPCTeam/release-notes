@@ -6,6 +6,14 @@ type: "Production | Preview"
 product: "Publisher"
 author: "PatchMyPC Team"
 keywords: "publisher, [add relevant keywords]"
+taxonomy:
+    products:
+        - patch-my-pc-publisher
+    release-notes-type:
+      - preview-release
+    release-notes-update-type:
+      - bug-fix
+      - new-feature
 ---
 
 # [Product Name] Version [X.X.X] - [Release Type]
