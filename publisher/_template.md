@@ -1,8 +1,8 @@
 ---
 title: "[Product Name] Version [X.X.X]"
 version: "X.X.X"
-release_date: "YYYY-MM-DD"
-release_type: "Production | Preview"
+date: "YYYY-MM-DD"
+type: "Production | Preview"
 product: "Publisher"
 author: "PatchMyPC Team"
 keywords: "publisher, [add relevant keywords]"
